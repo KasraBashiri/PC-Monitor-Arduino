@@ -22,6 +22,10 @@ The project receives system information from a PC through the Serial port and di
 | RAM      | 85% or higher |
 | Disk     | 90% or higher |
 
+## 📸 Project Preview
+
+![Arduino PC Monitor](images/pc-monitor.jpg)
+
 ## 🛠️ Hardware
 
 - Arduino
